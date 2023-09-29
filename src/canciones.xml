@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE canciones SYSTEM "canciones.dtd">
+<canciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="canciones.xsd">
+    <cancion>
+        <titulo>Give It 2 Me</titulo>
+        <duracion>4:47</duracion>
+        <año>2008</año>
+        <compositores>
+            <compositor>
+                <nombres>Pharrell</nombres>
+                <apellidos>Williams</apellidos>
+            </compositor>
+        </compositores>
+        <productores>
+            <productor>
+                <nombres>Pharrell</nombres>
+                <apellidos>Williams</apellidos>
+            </productor>
+        </productores>
+        <sello>Warner Bros Records</sello>
+        <artista>Madonna</artista>
+    </cancion>
+
+    <cancion>
+        <titulo>Love like you</titulo>
+        <duracion>3:11</duracion>
+        <año>2019</año>
+        <compositores>
+            <compositor>
+                <nombres>Rebecca</nombres>
+                <apellidos>Sugar</apellidos>
+            </compositor>
+        </compositores>
+        <productores>
+            <productor>
+                <nombres>Rebecca</nombres>
+                <apellidos>Sugar</apellidos>
+            </productor>
+        </productores>
+        <sello>Turner Music Publishing</sello>
+        <artista>Rebecca Sugar</artista>
+    </cancion>
+
+    <cancion>
+        <titulo>Escapism</titulo>
+        <duracion>2:01</duracion>
+        <año>2019</año>
+        <compositores>
+            <compositor>
+                <nombres>Rebecca</nombres>
+                <apellidos>Sugar</apellidos>
+            </compositor>
+        </compositores>
+        <productores>
+            <productor>
+                <nombres>Steven</nombres>
+                <apellidos>Velema</apellidos>
+            </productor>
+        </productores>
+        <sello>Turner Music Publishing</sello>
+        <artista>AJ Michalka</artista>
+    </cancion>
+
+    <cancion>
+        <titulo>Change your mind</titulo>
+        <duracion>0:55</duracion>
+        <año>2019</año>
+        <compositores>
+            <compositor>
+                <nombres>Rebecca</nombres>
+                <apellidos>Sugar</apellidos>
+            </compositor>
+        </compositores>
+        <productores>
+            <productor>
+                <nombres>Rebecca</nombres>
+                <apellidos>Sugar</apellidos>
+            </productor>
+        </productores>
+        <sello>Turner Music Publishing</sello>
+        <artista>Zach Callison</artista>
+    </cancion>
+</canciones>
